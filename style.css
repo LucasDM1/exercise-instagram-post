@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+.post{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    height: 580px;
+    background-color: white;
+}
+h4{
+    margin:0;
+}
+
+#name2{
+    margin: 0;
+}
+.post-head {
+    padding: 15px;
+    
+    
+    
+}
+
+.points,.save{
+    float: right;
+}
+.post-foot{
+    padding: 15px;
+}
+.html5fa{
+    float: left;
+    padding: 5px;
+}
+.Name{
+    float: left;
+    padding-bottom: 5px;
+}
